@@ -1,0 +1,228 @@
+@charset "UTF-8";[class*=tpm-],[class*=tpm-]:after,[class*=tpm-]:before,[class*=tpm-]:focus {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    outline: none
+}
+
+@media screen and (max-width: 600px) {
+    .tpm-ecology2__card {
+        padding:16px
+    }
+
+    .tpm-ecology2__card-object {
+        background-size: auto 140px
+    }
+
+    .tpm-ecology2__bubble-tit {
+        font-size: 14px;
+        line-height: 22px
+    }
+
+    .tpm-ecology2__bubble-list {
+        margin-bottom: 0;
+        margin-top: 0
+    }
+
+    .tpm-ecology2__bubble-list .tpm-list__item {
+        margin-bottom: 0;
+        width: 100%
+    }
+
+    .tpm-ecology2__bubble-list .tpm-list__item-text {
+        font-size: 12px;
+        line-height: 20px
+    }
+
+    .tpm-ecology2__bubble-list .tpm-list__item:nth-child(2n) {
+        margin-left: 0
+    }
+
+    .tpm-ecology2__bubble-list-tit {
+        font-size: 12px;
+        line-height: 20px;
+        margin-top: 0
+    }
+}
+
+.tpm-logo-card {
+    box-sizing: border-box;
+    width: 200px;
+    background: #fff;
+    box-shadow: 8px 8px 20px 0 rgba(55,99,170,.1),-8px -8px 20px 0 #fff,inset 0 4px 20px 0 hsla(0,0%,100%,.5);
+    border-radius: 8px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-font-smoothing: antialiased;
+    padding: 20px
+}
+
+@media screen and (min-width: 769px) {
+    .tpm-logo-card {
+        transition:box-shadow .3s ease-in-out
+    }
+}
+
+.tpm-logo-card img {
+    display: block;
+    max-width: 100%;
+    max-height: 40px;
+    max-width: min(160px,100%)
+}
+
+.tpm-logo-card__img-wrap {
+    
+    width: 130%;
+    max-width: 180px
+    
+}
+
+.tpm-logo-card__img {
+    padding-top: 25%;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0!important;
+    line-height: 0!important
+}
+
+.tpm-logo-card[href]:hover {
+    box-shadow: 8px 8px 20px 0 rgba(55,99,170,.2),-8px -8px 20px 0 #fff
+}
+
+.tpm-logo-card__wrap {
+    padding-bottom: 28px;
+    margin-bottom: -60px
+}
+
+.tpm-logo-card__tit {
+    font-size: 12px;
+    color: #495770;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 4px
+}
+
+.tpm-logo-card__list {
+    padding: 0 0px;  
+    margin-left: -55px;  
+    margin-right: -60px;  
+    padding: 20px 20px;  
+}
+
+.tpm-logo-card__list>li {
+    display: inline-block;
+    vertical-align: top;
+    padding: 5 10px 20px
+}
+
+.tpm-logo-card__wrap--fixcol .tpm-logo-card__wrap-inner {
+    margin: 0 auto;
+    box-sizing: border-box;
+              margin: auto;  /* 添加这一行来居中元素 */  
+        width: 50%;  /* 或其他你想要的宽度 */  
+    max-width: 1180px
+    
+}
+
+.tpm-logo-card__wrap--fixcol .tpm-logo-card__list {
+    text-align: center;
+    padding: 0
+}
+
+.tpm-logo-card__wrap--fixcol .tpm-logo-card__list>li {
+    width: 20%;
+    box-sizing: border-box
+}
+
+.tpm-logo-card__wrap--fixcol .tpm-logo-card {
+    width: 100%
+}
+
+.tpm-logo-card__wrap--fixcol.align-left .tpm-logo-card__list {
+    text-align: left
+}
+
+.tpm-logo-card__wrap--fixcol.align-right .tpm-logo-card__list {
+    text-align: right
+}
+
+.tpm-logo-card__wrap--col3 .tpm-logo-card__list>li {
+    width: 33.333%;
+    box-sizing: border-box
+}
+
+.tpm-logo-card__wrap--col4 .tpm-logo-card__list>li {
+    width: 25%;
+    box-sizing: border-box
+}
+
+.tpm-logo-card__wrap--col5 .tpm-logo-card__list>li {
+    width: 20%;
+    box-sizing: border-box
+}
+
+.tpm-logo-card__wrap--col6 .tpm-logo-card__list>li {
+    width: 16.666666666%;
+    box-sizing: border-box
+}
+
+.tpm-logo-card__wrap--col7 .tpm-logo-card__list>li {
+    width: 14.2857142857%;
+    box-sizing: border-box
+}
+
+.tpm-logo-card__wrap--col8 .tpm-logo-card__list>li {
+    width: 12.5%;
+    box-sizing: border-box
+}
+
+.tpm-logo-card__wrap--multi {
+    overflow: hidden
+}
+
+.tpm-logo-card__wrap--multi .tpm-logo-card__wrap-inner {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+
+    display: inline-block
+    
+}
+
+.tpm-logo-card__wrap--loop .tpm-logo-card__list,.tpm-logo-card__wrap--multi .tpm-logo-card__list {
+    white-space: nowrap
+}
+
+.tpm-logo-card__wrap.align-center {
+    text-align: center
+}
+
+.tpm-logo-card__wrap.align-right {
+    text-align: right
+}
+
+.tpm-logo-card__wrap.align-left {
+    text-align: left
+}
+
+
+
+.text-container {  
+    position: relative;  
+    width: 100%;  
+    height: 0;  
+    display: flex;  
+    align-items: center;  
+    justify-content: center;  
+    padding-top: 10px; 
+}  
+  
+.text-container span {  
+    z-index: 1;  
+}
+

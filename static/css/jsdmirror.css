@@ -1,0 +1,61 @@
+.navbar-logo {
+  position:relative;
+  float:left;
+  overflow: hidden;
+  }
+.navbar-logo:before{
+  content:"";
+  position: absolute;
+  left: -300px;
+  width: 250px;
+  height: 10px;
+  background-color: rgba(255,255,255,.5);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);/*角度倾斜45*/
+  -webkit-animation: searchLights 2s ease-in 2s infinite;
+  -o-animation: searchLights 2s ease-in 2s infinite;
+  animation: searchLights 2s ease-in 2s infinite;/*光扫过去的时间，自己修改，可以加快*/}
+  @-webkit-keyframes searchLights {
+  0% { left: -100px; top: 0; }
+  to { left: 120px; top: 100px; }
+  }
+  @-o-keyframes searchLights {
+  0% { left: -100px; top: 0; }
+  to { left: 120px; top: 100px; }
+  }
+  @-moz-keyframes searchLights {
+  0% { left: -100px; top: 0; }
+  to { left: 120px; top: 100px; }
+  }
+  @keyframes searchLights {
+  0% { left: -100px; top: 0; }
+  to { left: 120px; top: 100px; }
+}
+.navbar-logo {  
+  animation: hueRotateAndBrightness 6s infinite linear;  
+}  
+  
+@keyframes hueRotateAndBrightness {  
+  0% {  
+    filter: hue-rotate(0deg) brightness(1);  
+  }  
+  20% {  
+    filter: hue-rotate(90deg) brightness(1.1);  
+  }  
+  40% {  
+    filter: hue-rotate(180deg) brightness(1);  
+  }  
+  60% {  
+    filter: hue-rotate(270deg) brightness(0.9);  
+  }  
+  80% {  
+    filter: hue-rotate(360deg) brightness(1.1);  
+    /* 也可以添加其他滤镜，如contrast或saturate */  
+  }  
+  100% {  
+    filter: hue-rotate(0deg) brightness(1);  
+  }  
+}  
