@@ -1,162 +1,95 @@
-	<div class="about">
-					
-						<div class="container">
-							<div class="about-wrap1">
-								<div class="about-content1">
-									<span class="tag1">
-										运营团队
-									</span>
-									<P>
-							
-						</p>
-									<h4>
-									点击名字可以去对方的网站哦~
-									</h4>
-										<P>
-							
-						</p>
-									<div class="team" style="height: auto !important;">
-										<div class="row">
-											<div class="col-md-2">
-												<div class="team-player">
-													<img src="https://q1.qlogo.cn/g?b=qq&amp;nk=202835956&amp;s=640" alt="Thumbnail Image"
-														 class="rounded-circle img-fluid img-raised" style="width: 100%;">
-													<a href="https://www.ayao.ltd">
-														<h4 class="title">
-															Eagle Yao
-														</h4>
-													</a>
-													<h5 class="category text-primary lang" key="team-position-owner">
+ <div class="about">
+     <div class="container mx-auto">
+    <div class="-mx-4 flex flex-wrap">
+        <div class="w-full px-4">
+            <div class="mx-auto mb-[60px] max-w-[485px] text-center"><span class="mb-2 block text-lg font-semibold text-primary">团队成员</span>
+
+                <p class="text-base text-body-color dark:text-dark-6">JSDMirror团队是一个xxxx的团队，致力于xxxx。</p>
+            </div>
+        </div>
+    </div>
+    <div class="-mx-4 flex flex-wrap justify-center">
+        <div class="w-full px-4 sm:w-1/2 lg:w-1/4 xl:w-1/4">
+            <div class="group mb-8 rounded-xl bg-white px-5 pb-10 pt-12 shadow-testimonial dark:bg-dark dark:shadow-none">
+                <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]"><a href="https://www.ayao.ltd"><img src="https://q1.qlogo.cn/g?b=qq&nk=202835956&s=640" alt="team image" class="h-[120px] w-[120px] rounded-full"><span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-secondary opacity-0 transition-all group-hover:opacity-100"></span></div>
+                <div class="text-center">	
+                    <h4 class="mb-1 text-lg font-semibold text-dark dark:text-white">Eagle Yao</h4>
+                    <h5 class="category text-primary lang" key="team-position-owner">
 														前端/运营
 													</h5>
-													<p class="description">
-														这是一位比后端都懒得运营，
-														<del>
-															一个功能都要拖好久好久
-														</del>
-														<strong>
-															也就是腾讯云用户群里面被叫瑶瑶（瑶妹）那位	</strong>发邮件或者说QQ,微信没看到的的可以试试在腾讯云用户群问问总有人认识我的
-													
-												</div>
-											</div>
-											<div class="col-md-2">
-												<div class="team-player">
-													<img src="https://q1.qlogo.cn/g?b=qq&amp;nk=940376430&amp;s=640" alt="Thumbnail Image"
-														 class="rounded-circle img-fluid img-raised" style="width: 100%;">
-													<a href="/">
-														<h4 class="title">
-															 
-														</h4>
-													</a>
-													<h5 class="category text-primary lang" key="team-position-programmer">
+														</a>
+											
+                </div>
+            </div>
+        </div>
+        <div class="w-full px-4 sm:w-1/2 lg:w-1/4 xl:w-1/4">
+            <div class="group mb-8 rounded-xl bg-white px-5 pb-10 pt-12 shadow-testimonial dark:bg-dark dark:shadow-none">
+                <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]"><img src="https://q1.qlogo.cn/g?b=qq&nk=940376430&s=640" alt="team image" class="h-[120px] w-[120px] rounded-full"></div>
+                <div class="text-center">
+                    <h4 class="mb-1 text-lg font-semibold text-dark dark:text-white">⁡⁡</h4>
+                    <h5 class="category text-primary lang" key="team-position-owner">
 														维护
 													</h5>
-													<p class="description">
-														这是一位神秘的人，
-														<del>
-															剩下的不知
-														</del>
-												</div>
-											</div>
-											<div class="col-md-2">
-												<div class="team-player">
-													<img src="https://img.cuteapi.com/2023/11/22/_20231122111701.jpg" alt="Thumbnail Image"
-														 class="rounded-circle img-fluid img-raised" style="width: 100%;">
-													<a href="https://www.9kr.cc">
-														<h4 class="title">
-															kr
-														</h4>
-													</a>
-													<h5 class="category text-primary lang" key="team-position-programmer">
-														后端开发
-													</h5>
-													<p class="description">
-														常年在编写后端相关服务，
-														<strong>
-															是个优秀的后端，
-														</strong>
-														，
-														<del>
-															但也是划水多年的咸鱼鸽子一枚
-														</del>
-														，
-														<strong>
-															其口头禅
-														</strong>
-														，
-														<del>
-															下次一定，基本上每天都在说
-														</del>
-														<strong>
-															也就是腾讯云用户群里面被叫元元那位	</strong>	</div>
-											</div>
-											<div class="col-md-2">
-												<div class="team-player">
-													<img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2095746151&amp;s=640" alt="Thumbnail Image"
-														 class="rounded-circle img-fluid img-raised" style="width: 100%;">
-													<a href="/">
-														<h4 class="title">
+																						
+                </div>
+            </div>
+        </div>
+        <div class="w-full px-4 sm:w-1/2 lg:w-1/4 xl:w-1/4">
+            <div class="group mb-8 rounded-xl bg-white px-5 pb-10 pt-12 shadow-testimonial dark:bg-dark dark:shadow-none">
+                <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]"><a href="https://www.9kr.cc"><img src="https://img.cuteapi.com/2023/11/22/_20231122111701.jpg" alt="team image" class="h-[120px] w-[120px] rounded-full"><span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-secondary opacity-0 transition-all group-hover:opacity-100"></span></div>
+                <div class="text-center">
+                    <h4 class="mb-1 text-lg font-semibold text-dark dark:text-white">KR</h4>
+                    <h5 class="category text-primary lang" key="team-position-owner">
+													后端开发
+													</h5></a>
+                </div>
+            </div>
+        </div>
+        <div class="w-full px-4 sm:w-1/2 lg:w-1/4 xl:w-1/4">
+            <div class="group mb-8 rounded-xl bg-white px-5 pb-10 pt-12 shadow-testimonial dark:bg-dark dark:shadow-none">
+                <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]"><img src="https://q1.qlogo.cn/g?b=qq&nk=2095746151&s=640" alt="team image" class="h-[120px] w-[120px] rounded-full"><span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-secondary opacity-0 transition-all group-hover:opacity-100"></span></div>
+                <div class="text-center">
+                    <h4 class="mb-1 text-lg font-semibold text-dark dark:text-white">
 															冉҈҉҈҉҈҉҈҉҈茹
+															</h4>
+                </div>
+            </div>
+        </div>
+         <div class="w-full px-4 sm:w-1/2 lg:w-1/4 xl:w-1/4">
+            <div class="group mb-8 rounded-xl bg-white px-5 pb-10 pt-12 shadow-testimonial dark:bg-dark dark:shadow-none">
+                <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">	<a href="https://www.loliapi.com/"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2519719113&amp;s=640" alt="team image" class="h-[120px] w-[120px] rounded-full"><span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-secondary opacity-0 transition-all group-hover:opacity-100"></span></div>
+                <div class="text-center">
+                    <h4 class="mb-1 text-lg font-semibold text-dark dark:text-white">
+																猫猫摸大鱼
 														</h4>
-													</a>
-													<h5 class="category text-primary lang" key="team-position-programmer">
+                      <h5 class="category text-primary lang" key="team-position-owner">
 														社群管理
-													</h5>
-													<p class="description">
-														E人
-														<strong>
-															人美声甜，一推就倒
-														</strong>
-														，
-														<del>
-															说白了的是个MTF
-														</del>
-														，
-														<strong>
-															不是(((
-														</strong>
+													</h5>	</a>	</div>
 												</div>
-											</div>
-											<div class="col-md-2">
-												<div class="team-player">
-													<img src="https://q1.qlogo.cn/g?b=qq&amp;nk=208230039&amp;s=640" alt="Thumbnail Image"
-														 class="rounded-circle img-fluid img-raised" style="width: 100%;">
-													<a href="https://www.acg.ltd">
-														<h4 class="title">
-															sola
+                </div>
+          
+        
+         <div class="w-full px-4 sm:w-1/2 lg:w-1/4 xl:w-1/4">
+            <div class="group mb-8 rounded-xl bg-white px-5 pb-10 pt-12 shadow-testimonial dark:bg-dark dark:shadow-none">
+                <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">	<a href="https://www.acg.ltd/"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=208230039&amp;s=640" alt="team image" class="h-[120px] w-[120px] rounded-full"><span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-secondary opacity-0 transition-all group-hover:opacity-100"></span></div>
+                <div class="text-center">
+                    <h4 class="mb-1 text-lg font-semibold text-dark dark:text-white">
+																sola
 														</h4>
-													</a>
-													<h5 class="category text-primary lang" key="team-position-programmer">
+                      <h5 class="category text-primary lang" key="team-position-owner">
 														社群管理
-													</h5>
-													<p class="description">
-														<strong>
-															咕咕咕
-														</strong>
-														
+													</h5></a>	</div>
 												</div>
-											</div>	</div>	</div>
-											<div class="col-md-2">
-												<div class="team-player">
-													<img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2519719113&amp;s=640" alt="Thumbnail Image"
-														 class="rounded-circle img-fluid img-raised" style="width: 100%;">
-													<a href="https://www.loliapi.com/">
-														<h4 class="title">
-															猫猫摸大鱼
-														</h4>
-													</a>
-													<h5 class="category text-primary lang" key="team-position-programmer">
+                </div>        
+         <div class="w-full px-4 sm:w-1/2 lg:w-1/4 xl:w-1/4">
+            <div class="group mb-8 rounded-xl bg-white px-5 pb-10 pt-12 shadow-testimonial dark:bg-dark dark:shadow-none">
+                <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">	<a href="https://blog.miomoe.cn/"><img src="https://q1.qlogo.cn/g?b=qq&nk=1778273540&s=640" alt="team image" class="h-[120px] w-[120px] rounded-full"><span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-secondary opacity-0 transition-all group-hover:opacity-100"></span></div>
+                <div class="text-center">
+                    <h4 class="mb-1 text-lg font-semibold text-dark dark:text-white">
+																松鼠
+														</h4>	
+                      <h5 class="category text-primary lang" key="team-position-owner">
 														社群管理
-													</h5>
-													<p class="description">
-														
-															爱喝摸鱼生椰拿铁的屑猫猫
-													
-														<strong>
-															也就是腾讯云用户群里面被叫猫猫那位	</strong>	</div>
+													</h5></a>	</div>
 												</div>
-											</div>
-										</div>
-									
-									</div>
-						
+                </div>
